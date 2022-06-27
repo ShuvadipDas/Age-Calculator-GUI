@@ -1,4 +1,4 @@
-# Age Calculator GUI
+# Age Calculator GUI - Python Tutorial <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 In this age calculator app, users can type in their date of birth, and the app will calculate and display their age. 
 
